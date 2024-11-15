@@ -5,6 +5,6 @@
 # Illustration
 <body>
  
- url<img src="https://github.com/AngelPriscillia/AngelPriscillia.github.io/blob/main/CVimage/Portofolio/Emma%20Woods.jpeg" alt="">;
-url<img src="https://github.com/AngelPriscillia/AngelPriscillia.github.io/blob/main/CVimage/Portofolio/Hollow%20Knight.jpg" alt="">;
-url<img src="https://github.com/AngelPriscillia/AngelPriscillia.github.io/blob/main/CVimage/Portofolio/Ithaqua.jpeg" alt="">;
+ <img src="https://github.com/AngelPriscillia/AngelPriscillia.github.io/blob/main/CVimage/Portofolio/Emma%20Woods.jpeg" alt="">
+<img src="https://github.com/AngelPriscillia/AngelPriscillia.github.io/blob/main/CVimage/Portofolio/Hollow%20Knight.jpg" alt="">
+<img src="https://github.com/AngelPriscillia/AngelPriscillia.github.io/blob/main/CVimage/Portofolio/Ithaqua.jpeg" alt="">
